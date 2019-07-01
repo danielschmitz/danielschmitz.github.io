@@ -5,4 +5,4 @@ Atualmente estou trabalhando como freelancer nas seguintes áreas:
 - Desevolvimento frontend Angular/Vue
 - Desevolvimento backend com Node
 
-Contato pelo telegram: t.me/danielschmitz
+Contato pelo telegram: https://t.me/danielschmitz
