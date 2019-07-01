@@ -1,2 +1,4 @@
 theme: jekyll-theme-hacker
 title: Daniel Schmitz
+github:
+  is_project_page: false
