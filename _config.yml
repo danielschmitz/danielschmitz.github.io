@@ -2,4 +2,4 @@ theme: jekyll-theme-hacker
 title: Daniel Schmitz
 show_downloads: false
 github:
-  is_project_page: true
+  is_project_page: false
