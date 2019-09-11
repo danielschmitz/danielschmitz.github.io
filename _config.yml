@@ -1,5 +1,6 @@
 theme: jekyll-theme-slate
 title: Daniel Schmitz
+description: danielschmitz.com.br
 show_downloads: false
 github:
   is_project_page: false
