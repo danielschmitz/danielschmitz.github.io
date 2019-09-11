@@ -7,7 +7,7 @@ Olá, meu nome é Daniel Schmitz. Sou desenvolvedor web há mais de 20 anos, tra
 
 Procurando pelos meus livros? Veja em [http://leanpub.com/u/danielschmitz](http://leanpub.com/u/danielschmitz)
 
-Linkedin: [https://www.linkedin.com/in/danielschmitz/](https://www.linkedin.com/in/danielschmitz/
+Linkedin: [https://www.linkedin.com/in/danielschmitz/](https://www.linkedin.com/in/danielschmitz/)
 
 Contato pelo telegram: [https://t.me/danielschmitz](https://www.linkedin.com/in/danielschmitz/)
 
