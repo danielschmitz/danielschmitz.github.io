@@ -5,10 +5,10 @@
 
 Olá, meu nome é Daniel Schmitz. Sou desenvolvedor web há mais de 20 anos, trabalhando atualmente com Vuejs e Angular.
 
-Procurando pelos meus livros? Veja em [http://leanpub.com/u/danielschmitz](http://leanpub.com/u/danielschmitz)
+Procurando pelos meus livros? Veja em <a href="http://leanpub.com/u/danielschmitz">leanpub</a>
 
-Linkedin: [https://www.linkedin.com/in/danielschmitz/](https://www.linkedin.com/in/danielschmitz/)
+Veja meu cúrriculo no <a href="https://www.linkedin.com/in/danielschmitz/">Linkedin</a>
 
-Contato pelo telegram: [https://t.me/danielschmitz](https://www.linkedin.com/in/danielschmitz/)
+Entre em contato comigo no <a href="https://t.me/danielschmitz">Telegram</a>
 
 </div>
