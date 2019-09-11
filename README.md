@@ -1,5 +1,5 @@
 
-<img src="https://pt.gravatar.com/userimage/36708935/e2eaada257306fe27c7a4837164cf65e.jpg?size=200" align="left" style="padding: 10px">
+<img src="https://pt.gravatar.com/userimage/36708935/e2eaada257306fe27c7a4837164cf65e.jpg?size=200" align="left" style="padding: 10px;border-radius: 90%;">
 
 <div style="padding: 10px">
 
