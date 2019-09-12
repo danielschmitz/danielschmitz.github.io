@@ -9,7 +9,7 @@ Olá, meu nome é Daniel Schmitz. Sou desenvolvedor web há mais de 20 anos, tra
 
 <a href="http://leanpub.com/u/danielschmitz">Meu Livros</a> 
 |
-<a href="https://www.linkedin.com/in/danielschmitz/">GitHub </a>
+<a href="https://github.com/danielschmitz">GitHub </a>
 |
 <a href="https://www.linkedin.com/in/danielschmitz/">Curriculo</a>
 |
