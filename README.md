@@ -1,3 +1,4 @@
+
 Olá, meu nome é Daniel Schmitz. Sou desenvolvedor web há mais de 20 anos, trabalhando atualmente com Vuejs e Angular. 
 
 * [Meu Livros](http://leanpub.com/u/danielschmitz) 
