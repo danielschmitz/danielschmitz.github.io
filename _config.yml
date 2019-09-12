@@ -1,6 +1,7 @@
 theme: jekyll-theme-minimal
 title: Daniel Schmitz
 description: danielschmitz.com.br
+logo: https://pt.gravatar.com/userimage/36708935/e2eaada257306fe27c7a4837164cf65e.jpg
 show_downloads: false
 github:
   is_project_page: false
