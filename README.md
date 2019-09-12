@@ -4,11 +4,25 @@
 <div style="padding: 10px">
 
 Olá, meu nome é Daniel Schmitz. Sou desenvolvedor web há mais de 20 anos, trabalhando atualmente com Vuejs e Angular.
+
 <br/><br/>
-Procurando pelos meus livros? Veja em <a href="http://leanpub.com/u/danielschmitz">leanpub</a>
+
+<a href="http://leanpub.com/u/danielschmitz">Meu Livros</a> 
+|
+<a href="https://www.linkedin.com/in/danielschmitz/">GitHub </a>
+|
+<a href="https://www.linkedin.com/in/danielschmitz/">Curriculo</a>
+|
+<a href="https://t.me/danielschmitz">Contato pelo Telegram</a>
+
+
 <br/><br/>
-Veja meu cúrriculo no <a href="https://www.linkedin.com/in/danielschmitz/">Linkedin</a>
-<br/><br/>
-Entre em contato comigo no <a href="https://t.me/danielschmitz">Telegram</a>
+
+Mini cursos gratuitos que escrevi:
+
+<ul>
+  <li> <a href="https://danielschmitz.com.br/curso-spring-boot/">Mini curso de Spring Boot</a>
+  <li> <a href="https://danielschmitz.com.br/curso-vue/">Mini curso de Vue.js</a>
+</ul>
 
 </div>
