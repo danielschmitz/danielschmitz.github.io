@@ -21,8 +21,8 @@ Olá, meu nome é Daniel Schmitz. Sou desenvolvedor web há mais de 20 anos, tra
 Mini cursos gratuitos que escrevi:
 
 <ul>
-  <li> <a href="https://danielschmitz.com.br/curso-spring-boot/">Mini curso de Spring Boot</a>
-  <li> <a href="https://danielschmitz.com.br/curso-vue/">Mini curso de Vue.js</a>
+  <li> <a href="https://danielschmitz.com.br/curso-spring-boot/">Mini curso de Spring Boot</a> </li>
+  <li> <a href="https://danielschmitz.com.br/curso-vue/">Mini curso de Vue.js</a> </li>
 </ul>
 
 </div>
