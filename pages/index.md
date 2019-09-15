@@ -11,7 +11,9 @@ encrypted_text: false
 permalink: /
 ---
 
-Olá, meu nome é Daniel Schmitz. Sou desenvolvedor web há mais de 20 anos, trabalhando atualmente com Vuejs e Angular. 
+Olá, meu nome é Daniel Schmitz. Sou desenvolvedor web há mais de 20 anos, trabalhando atualmente com Vuejs e Angular.
+
+Um pouco sobre mim:
 
 * [Meu Livros](http://leanpub.com/u/danielschmitz) 
 * [GitHub](https://github.com/danielschmitz) 
@@ -22,6 +24,15 @@ Mini cursos gratuitos que escrevi:
 
 *   [Mini curso de Spring Boot](https://danielschmitz.com.br/curso-spring-boot/)
 *   [Mini curso de Vue.js](https://danielschmitz.com.br/curso-vue/)
+
+Artigos interessantes que escrevi:
+
+*   [Tudo sobre GIT - site tableless](https://tableless.com.br/tudo-que-voce-queria-saber-sobre-git-e-github-mas-tinha-vergonha-de-perguntar/)
+*   [Deise o ESLint trabalhar para você](https://vuejs-brasil.com.br/deixe-o-eslint-trabalhar-para-voce-no-visual-studio-code/)
+*   [Trabalhando com arquivos .env no Vuejs](https://vuejs-brasil.com.br/trabalhando-com-arquivos-env-no-vue/)
+*   [Alternativas em relação ao Vuex](https://vuejs-brasil.com.br/alternativas-em-relacao-ao-vuex/)
+
+
 
 
 
