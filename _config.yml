@@ -1,7 +1,21 @@
-theme: jekyll-theme-cayman
-title: Daniel Schmitz
-description: danielschmitz.com.br
-logo: https://avatars0.githubusercontent.com/u/1509692?s=460&v=4
-show_downloads: false
-github:
-  is_project_page: false
+## Settings
+title: "Daniel Schmitz"
+owner: ""
+url: "https://danielschmitz.com.br"
+baseurl: "/"
+permalink: /:title/
+description: ""
+markdown: kramdown
+webrick:
+  headers:
+    Access-Control-Allow-Origin: "*"
+## Global Variables
+email: "danieljfa@gmail.com"
+github: "danielschmitz"
+# path to: css/, fonts/, img/ and js/
+assets_path: "/assets" # i.e. "/assets" 
+statement: "Designed by DeerRIDER, All Rights Reserved"
+# default max toc levels: 1 - 6 (h1 - h6)
+toc_level: 3
+# texts randomly displayed in background
+bgtext: "αβγδεζηθικλμνξοπρστυφχψω∷∫∮∝∞∧∨∑∏∪∩∈∵∴⊥‖∠⌒⊙≌√"
