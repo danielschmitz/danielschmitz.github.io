@@ -15,7 +15,7 @@ Olá, meu nome é Daniel Schmitz. Sou desenvolvedor web há mais de 20 anos, tra
 
 Um pouco sobre mim:
 
-* [Meu Livros](http://leanpub.com/u/danielschmitz) 
+* [Meus Livros](http://leanpub.com/u/danielschmitz) 
 * [GitHub](https://github.com/danielschmitz) 
 * [Currículo](https://www.linkedin.com/in/danielschmitz/) 
 * [Contato pelo Telegram](https://t.me/danielschmitz) 
